@@ -1,0 +1,15 @@
+#vertical-line {
+
+    border-left: 2px solid #cccccc;
+
+    border-right: 1px solid #cccccc;
+
+    padding-left: 10px;
+
+    padding-right: 10px;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+}
